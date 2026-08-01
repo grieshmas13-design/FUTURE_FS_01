@@ -110,3 +110,27 @@ html{
 .btn:hover{
     background:#005f8d;
 }
+/* Contact Form */
+#contact input,
+#contact textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+#contact button {
+    background: #0077b6;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+#contact button:hover {
+    background: #005f8d;
+}
